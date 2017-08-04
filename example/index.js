@@ -1,6 +1,6 @@
 import React from "react";
 import {TouchableOpacity, View, PixelRatio, Text, Image, Dimensions, Easing} from "react-native";
-import SceneLoader from "./example_lib";
+import SceneLoader from "react-native-scene-loader";
 
 const wSize = Dimensions.get('window');
 const sHeight = wSize.height;
