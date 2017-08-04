@@ -1,7 +1,3 @@
-## React native scene loader
-
-Provides you with a simple full-screen loader with a couple of animations
-
 ## Installation
 
     npm i react-native-scene-loader
