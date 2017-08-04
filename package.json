@@ -1,0 +1,27 @@
+{
+  "name": "react-native-scene-loader",
+  "version": "0.1.0",
+  "description": "Provides full-screen loader component with some animations",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tooyz/react-native-scene-loader.git"
+  },
+  "keywords": [
+    "react-native",
+    "loader"
+  ],
+  "author": "Tooyz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tooyz/react-native-scene-loader/issues"
+  },
+  "homepage": "https://github.com/tooyz/react-native-scene-loader#readme"
+}
