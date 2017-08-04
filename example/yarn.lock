@@ -2939,7 +2939,7 @@ promise@^7.1.1:
   dependencies:
     asap "~2.0.3"
 
-prop-types@^15.5.10, prop-types@^15.5.6, prop-types@^15.5.8:
+prop-types@^15.5.6, prop-types@^15.5.8:
   version "15.5.10"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.5.10.tgz#2797dfc3126182e3a95e3dfbb2e893ddd7456154"
   dependencies:
@@ -3004,11 +3004,9 @@ react-devtools-core@^2.1.8:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
-react-native-blur@^3.1.2:
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/react-native-blur/-/react-native-blur-3.1.2.tgz#82492a4db1d99aaa61956bbabc50a98930974e6d"
-  dependencies:
-    prop-types "^15.5.10"
+react-native-scene-loader@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/react-native-scene-loader/-/react-native-scene-loader-0.1.0.tgz#37c64683b1828abc50fd8524cc875f4d3806362f"
 
 react-native@0.45.1:
   version "0.45.1"

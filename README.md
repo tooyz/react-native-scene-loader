@@ -78,12 +78,12 @@ If you did not specify customIndicator ActivityIndicator with this props will be
 
 **animation**
 
-Currently supported - fade, bot, top, left, right.
+Currently supported - **fade, bot, top, left, right.**
 First one will fade loader in or out. Others will pull loader from either direction.
 
 Animation prop consists of animation name, animation type and its options.
 
-Types are default react-native animation types 'timing', 'spring', 'decay' (https://facebook.github.io/react-native/docs/animated.html#methods).
+Types are default react-native animation types **'timing', 'spring', 'decay'** (https://facebook.github.io/react-native/docs/animated.html#methods).
 
 Options are options of corresponding animation type.
 
