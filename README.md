@@ -6,17 +6,17 @@ Provides you with a simple full-screen loader with a couple of animations
 
     npm i react-native-scene-loader
     
-##How it looks like
+## How it looks like
 
 Fade animation
 
-![Alt text](assets/example1.gif/?raw=true "Fading")
+![Alt text](https://raw.githubusercontent.com/Tooyz/react-native-scene-loader/master/example/assets/example1.gif "Fading")
 
 Top animation
 
-![Alt text](assets/example2.gif/?raw=true "Falling")
+![Alt text](https://raw.githubusercontent.com/Tooyz/react-native-scene-loader/master/example/assets/example2.gif "Falling")
 
-##Usage
+## Usage
 
 Put SceneLoader in the end of your scene, or root view, to overlap other components.
 
@@ -65,7 +65,7 @@ Or/and custom loaders/underlays
     />
 ```
 
-##Props
+## Props
 
 **visible**
 
@@ -118,17 +118,17 @@ _**Important:**_ The function will receive "style" argument, which you need to p
 
 **callbacks**
 
-If you use an animation.
+Called if you use an animation.
 
-onInAnimationStart - Entering animation started
+_onInAnimationStart_ - Entering animation started
 
-onInAnimationEnd - Entering animation ended
+_onInAnimationEnd_ - Entering animation ended
 
-onOutAnimationStart - Exiting animation started
+_onOutAnimationStart_ - Exiting animation started
 
-onOutAnimationEnd - Exiting animation ended
+_onOutAnimationEnd_ - Exiting animation ended
 
-##Examples
+## Examples
 
 ```
 cd example
