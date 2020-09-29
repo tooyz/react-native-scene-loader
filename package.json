@@ -1,6 +1,6 @@
 {
   "name": "react-native-scene-loader",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Provides full-screen loader component with some animations",
   "main": "lib/index.js",
   "directories": {
